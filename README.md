@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:0d1a0d,50:003300,75:00ff41,100:003300&height=250&section=header&text=%3E_%20Bora%20Eren&fontSize=70&fontColor=00ff41&fontAlignY=32&desc=%5B%20Senior%20Full%20Stack%20Developer%20%5D&descSize=22&descColor=20c20e&descAlignY=56&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,25:001d3d,50:003566,75:008dfb,100:003566&height=250&section=header&text=%3E_%20Debugging%20Reality&fontSize=65&fontColor=008dfb&fontAlignY=32&desc=%5B%20Senior%20Software%20Engineer%20%5D&descSize=22&descColor=4cc9f0&descAlignY=56&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%24+5%2B+years+of+enterprise-grade+production+code;%24+.NET+%7C+Angular+%7C+Flutter+%7C+SQL+Server+%7C+Docker+%7C+AI;%24+Crafting+software+as+engineering+%26+art+%E2%96%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=1000&color=008dfb&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%24+6%2B+years+of+enterprise-grade+production+code;%24+.NET+%7C+Angular+%7C+Flutter+%7C+SQL+Server+%7C+Docker+%7C+AI;%24+Crafting+software+as+engineering+%26+art+%E2%96%88" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/boraerenn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=googlechrome&logoColor=black)](https://boraeren.cv)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.boraeren@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF8C00?style=for-the-badge&logoColor=white)](https://boraeren.cv)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logoColor=white)](mailto:dev.boraeren@gmail.com)
 
 </div>
 
@@ -18,7 +18,9 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;`> whoami`
 
-```
+<div align="center">
+
+```text
 +--------------------------------------------------------------------------+
 |                                                                          |
 |  ██████╗  ██████╗ ██████╗  █████╗     ███████╗██████╗ ███████╗███╗   ██╗ |
@@ -101,10 +103,10 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=boraeren&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=boraeren&color=008dfb&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:0d1a0d,50:003300,75:00ff41,100:003300&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,25:001d3d,50:003566,75:008dfb,100:003566&height=130&section=footer" width="100%"/>
 
 </div>
